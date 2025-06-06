@@ -20,4 +20,4 @@ Welcome to the classic **PacMan Game**, built using **Java Swing**! This project
 ## 🖼️ Screenshots
 
 ### 📝 PacMan Game
-![image alt](https://github.com/HarshitKr3005/Java---Bank_Management_System/blob/afaf9ea96dc82ff4cf40309a20f621da580085bb/Screenshots/Login%20Page.png)
+![image alt](https://github.com/HarshitKr3005/Java---PacMan_Game/blob/0206dd55bc667963e64e009be899da977b7ba4a4/PacMan%20Image.png)
